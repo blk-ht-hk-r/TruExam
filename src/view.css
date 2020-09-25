@@ -1,0 +1,20 @@
+.cont {
+  text-align: center;
+}
+.update {
+  cursor: pointer;
+  margin: 15px 0px 50px 0px;
+  text-align: center;
+  padding: 10px;
+  outline: none;
+  background-color: aliceblue;
+  border: none;
+  color: rgb(20, 145, 255);
+  font-weight: 800;
+  font-size: 20px;
+  box-shadow: 4px 3px 4px rgb(163, 210, 238), -4px -4px 4px white;
+  border-radius: 50px;
+}
+.update:hover {
+  box-shadow: 4px 3px 4px rgb(163, 210, 238) inset, -4px -4px 4px white inset;
+}
