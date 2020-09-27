@@ -1,0 +1,45 @@
+.sub_cont {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.sub {
+   width:220px;
+   color: #0088ff;
+   padding: 20px;
+   display: flex;
+   text-align: center;
+   margin: 20px 0px;
+   flex-direction: column;
+   background-color: unset;
+   border-radius: 50px;
+   box-shadow: 4px 3px 4px #95c2ea, -4px -3px 4px white;
+}
+.detail {
+   text-align: left;
+}
+.but {
+   margin: 20px auto 15px auto;
+   outline: none;
+   background-color: #ff007b;
+   border: none;
+   box-shadow: 4px 3px 4px #f4b2e4, -4px -4px 4px #fff;
+   font-size: 14px;
+   padding: 10px;
+   border-radius: 25px;
+   transition: 1s;
+}
+
+.but > a {
+   color: white;
+   text-decoration: none;
+}
+
+.taskimg{
+   
+      width: 250px;
+      margin: auto;
+      border-radius:30px;
+   
+}
